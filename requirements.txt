@@ -1,1 +1,5 @@
 streamlit>=1.26.0
+newspaper3k
+spacy
+lxml_html_clean
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
